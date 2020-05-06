@@ -1,0 +1,4 @@
+Inicio
+ int temp
+ int temp
+Fin
