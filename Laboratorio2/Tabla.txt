@@ -1,0 +1,6 @@
+2;4;5;3;Error;
+2;Error;5;Error;Aceptar;
+2;Error;Error;Error;Error;
+Error;Error;Error;Error;Error;
+6;Error;Error;Error;Error;
+6;Error;Error;Error;Aceptar;
